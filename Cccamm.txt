@@ -8,3 +8,5 @@ C: kingccam.tk 13400 g3mfw7g powerman
 C: cccamsanjisat.cf 17400 premier sanji
 C: freesrv.ddns.net 15100 1786 1786
 C: free.cccamia.com 18000 rw5wi1 CCcamia.com
+C: gen.cccam-tv.com 9204 B13ce54be free2024
+C: t2.cccambird.com 12111 54404234 cccambird
